@@ -1,5 +1,5 @@
-# CodSoft
- CodSoft InternShip
+# CodSoft InternShip
+ CodSoft Task 1
 # PortFolio Link 
  https://abdulmunim.netlify.app/
  # Landing Page Link
